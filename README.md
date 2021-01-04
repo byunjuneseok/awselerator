@@ -1,2 +1,2 @@
 # awselerator
-awselerator - aws cli assistant tool made by golang.
+awselerator - aws cli assistant tool built using golang.
